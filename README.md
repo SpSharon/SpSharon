@@ -6,4 +6,4 @@ I specify, direct and verify agentic systems. AI coding agents write the impleme
 
 **[churchreach-template](https://github.com/SpSharon/churchreach-template)** — an outreach-content workflow with anti-fabrication guardrails, an evaluation harness, and a human approval gate. Deliberately a workflow, not an autonomous agent: the model drafts, people decide.
 
-Fourteen years of Progress 4GL / OpenEdge before this — QAD ERP, then regulated US banking.
+14+ years of Progress 4GL / OpenEdge before this — QAD ERP, then regulated US banking.
